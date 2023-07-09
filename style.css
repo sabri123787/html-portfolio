@@ -1,0 +1,28 @@
+
+body{
+   background-color: powderblue ;
+}
+img {
+   height : 150px;
+   width:150px;
+}
+
+  hr{
+   background-color: aliceblue;
+   border-style:dotted;
+   height: 50  px;
+   box-align:center;
+   width: 100px;
+  }
+
+h1{
+   color: #66BFBF;
+     font-size:30px;
+     background-color: red;
+}
+
+h3{
+   margin-left:50%:
+   color: blue;
+
+}
